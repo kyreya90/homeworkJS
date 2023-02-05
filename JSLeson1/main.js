@@ -46,9 +46,10 @@ console.log (a<g)
 
 let person =prompt("hallo, what is your name");
 let surname=prompt("and? what is your surname");
-let old =prompt(person+' '+"how old are you");
+let old =+prompt(person+' '+"how old are you");
 console.log(person)
 console.log(surname)
 console.log(old)
+console.log(typeof old)
 let n=Number("old")
 console.log(typeof n)
