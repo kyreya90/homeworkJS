@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb833467-41d1-42fd-a37f-c7bc2259bdab" name="Changes" comment="hm3">
-      <change afterPath="$PROJECT_DIR$/leson10/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson10/l10.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson12/l12.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson12/user.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson12/users.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson4/Leson4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson4/l4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson5/l5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson5/l5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson5/leson 6/l6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson5/leson 6/l6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson7/l7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson8/l8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson8/l8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson9/l9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson9/l9.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leson3/ll3.js" beforeDir="false" afterPath="$PROJECT_DIR$/leson3/ll3.js" afterDir="false" />
+    <list default="true" id="fb833467-41d1-42fd-a37f-c7bc2259bdab" name="Changes" comment="hm12">
+      <change beforePath="$PROJECT_DIR$/leson12/user.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +80,7 @@
       <workItem from="1678367775331" duration="359000" />
       <workItem from="1678368150280" duration="2595000" />
       <workItem from="1678371310354" duration="121000" />
-      <workItem from="1678649546727" duration="11630000" />
+      <workItem from="1678649546727" duration="11870000" />
     </task>
     <task id="LOCAL-00001" summary="hm1">
       <created>1675198899040</created>
@@ -142,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675808982769</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hm12">
+      <created>1678661474772</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678661474772</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +153,7 @@
     <MESSAGE value="hm1n" />
     <MESSAGE value="hm1m" />
     <MESSAGE value="hm3" />
-    <option name="LAST_COMMIT_MESSAGE" value="hm3" />
+    <MESSAGE value="hm12" />
+    <option name="LAST_COMMIT_MESSAGE" value="hm12" />
   </component>
 </project>
