@@ -4,10 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb833467-41d1-42fd-a37f-c7bc2259bdab" name="Changes" comment="hm1m">
-      <change afterPath="$PROJECT_DIR$/leson3/l3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson3/ll3.js" afterDir="false" />
+    <list default="true" id="fb833467-41d1-42fd-a37f-c7bc2259bdab" name="Changes" comment="hm3">
+      <change afterPath="$PROJECT_DIR$/leson10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leson10/l10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leson12/l12.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leson12/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leson12/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leson4/Leson4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leson4/l4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leson5/l5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leson5/l5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leson5/leson 6/l6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leson5/leson 6/l6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leson7/l7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leson8/l8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leson8/l8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leson9/l9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leson9/l9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leson3/ll3.js" beforeDir="false" afterPath="$PROJECT_DIR$/leson3/ll3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +34,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -38,19 +54,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +83,22 @@
       <workItem from="1675602901038" duration="5759000" />
       <workItem from="1675633257960" duration="37000" />
       <workItem from="1675633316162" duration="3390000" />
-      <workItem from="1675796115489" duration="12562000" />
+      <workItem from="1675796115489" duration="12656000" />
+      <workItem from="1676230950025" duration="9410000" />
+      <workItem from="1676269571888" duration="8851000" />
+      <workItem from="1676280318844" duration="7000" />
+      <workItem from="1676286824908" duration="3838000" />
+      <workItem from="1678044135647" duration="802000" />
+      <workItem from="1678122055990" duration="2231000" />
+      <workItem from="1678130736895" duration="5026000" />
+      <workItem from="1678212011530" duration="47000" />
+      <workItem from="1678212083159" duration="112000" />
+      <workItem from="1678212205710" duration="10858000" />
+      <workItem from="1678295750265" duration="11579000" />
+      <workItem from="1678367775331" duration="359000" />
+      <workItem from="1678368150280" duration="2595000" />
+      <workItem from="1678371310354" duration="121000" />
+      <workItem from="1678649546727" duration="11630000" />
     </task>
     <task id="LOCAL-00001" summary="hm1">
       <created>1675198899040</created>
@@ -103,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675636568759</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hm3">
+      <created>1675808982769</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675808982769</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +163,7 @@
     <MESSAGE value="hm1" />
     <MESSAGE value="hm1n" />
     <MESSAGE value="hm1m" />
-    <option name="LAST_COMMIT_MESSAGE" value="hm1m" />
+    <MESSAGE value="hm3" />
+    <option name="LAST_COMMIT_MESSAGE" value="hm3" />
   </component>
 </project>
